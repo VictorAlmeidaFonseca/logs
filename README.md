@@ -4,7 +4,7 @@ This app is made for manage and store general applications logs system. It consi
 
  ### Routes
 
- In oder to send logs data, will pass de index params as your index at elastic search.
+ In oder to send logs data, will pass the index params as your index at elastic search.
 
 ```
  http://localhost:3001/v1/insert/:index 
